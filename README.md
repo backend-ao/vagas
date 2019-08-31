@@ -43,3 +43,10 @@ listas onde você poderá postar sua vaga:
 ## Repositórios da Back-End Angola
 
 - [Vagas](https://github.com/backend-ao/vagas)
+- [Eventos](https://github.com/backend-ao/eventos)
+
+## Agradecimento
+
+Especial para a comunidade [Front-End BR](https://github.com/frontendbr/) que nos inspirou, e essa página é um fork deles :)
+
+
